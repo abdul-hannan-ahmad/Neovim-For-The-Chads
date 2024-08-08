@@ -1,3 +1,0 @@
-return {
-	"rootiest/astral.nvim",
-}
